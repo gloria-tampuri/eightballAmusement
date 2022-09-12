@@ -6,7 +6,7 @@ import {MdFacebook} from 'react-icons/md'
 const Footer = () => {
   return (
     <div className={classes.footer}>
-     <div className={classes.copyright}> © 2022 hervtech. </div>
+     <div className={classes.copyright}> © 2022 Eightballs Amusement. </div>
       <div className={classes.socials}> 
 
       <MdFacebook/> 

@@ -20,7 +20,11 @@ color:  #615F5F;
 .rates{
     margin: 1rem 0;
     display: flex;
-  gap: 2rem;
+ 
+}
+
+.rates div{
+    margin-right: 2rem;
 }
 
 .rates div h3{

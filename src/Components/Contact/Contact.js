@@ -16,6 +16,8 @@ const Contact = () => {
         <div className={classes.cont}><img src={email} alt='email'/> <p>eightballsamusement@gmail.com</p></div>
         <div className={classes.cont}> <img src={call} alt='call'/> <p>024 583 0990</p></div>
         <div className={classes.cont}> <img src={location} alt='location icon'/> <p>AS-232-2323 Dediako-KNUST, Kumasi</p></div>
+
+        
       </div>
     </div>
   )

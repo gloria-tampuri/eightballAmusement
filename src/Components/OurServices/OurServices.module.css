@@ -14,7 +14,7 @@
 }
 .each{
     display: flex;
-    gap: 2rem;
+  
     align-items: center;
     margin-bottom: 1rem;
 }
@@ -22,7 +22,7 @@
     background-color: #601005;
    width:20px;
    height: 8px;
-  
+   margin-right: 2rem;
 }
 
 .each h3{
