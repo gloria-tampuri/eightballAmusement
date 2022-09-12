@@ -1,0 +1,40 @@
+.team{
+    margin-top: 4rem;
+    padding: 0 2rem;
+}
+.team h1{
+    text-align: center;
+}
+.stick{
+    display: grid;
+    place-content: center;
+   }
+
+
+   .member{
+    width: 90%;
+    margin: 2rem auto;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    border-radius: 15px;
+    overflow: hidden;
+    padding-bottom: 3rem;
+   }
+
+
+   .member img{
+    width: 100%;
+   }
+
+   .member h3{
+    padding-top: 0.5rem;
+    color: #601005;
+   }
+
+   .title{
+    font-weight: 300;
+   }
+
+   .profile{
+    padding: 1rem;
+   }

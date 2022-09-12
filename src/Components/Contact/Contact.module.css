@@ -1,0 +1,33 @@
+.contact h1{
+text-align: center;
+}
+
+.stick{
+    display: grid;
+    place-content: center;
+}
+
+.showContact{
+    width: 90%;
+    margin: 1rem auto;
+    border-radius: 15px;
+    background-color:#601005 ;
+    padding: 2rem;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.2);
+    margin-bottom: 4rem;
+}
+
+.cont{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.cont img{
+    width: 2rem;
+    margin-right: 1rem;
+}
+
+.cont p{
+    color: white;
+}

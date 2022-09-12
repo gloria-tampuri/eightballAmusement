@@ -1,0 +1,35 @@
+.OurServices h1{
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.stick{
+    display: grid;
+    place-content: center;
+}
+
+.services{
+    
+    padding: 1rem 2rem;
+}
+.each{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+.bullet{
+    background-color: #601005;
+   width:20px;
+   height: 8px;
+  
+}
+
+.each h3{
+    width: 85%;
+    color: rgb(59, 59, 59);
+}
+
+.group{
+    margin: 4rem 0;
+}
